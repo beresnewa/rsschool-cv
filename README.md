@@ -1,1 +1,0 @@
-https://beresnewa.github.io/rsschool-cv/cv
