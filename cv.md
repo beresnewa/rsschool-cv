@@ -1,8 +1,8 @@
 # Ekaterina Beresneva #
     Phone:  +375256200047 
-    Email: <ekaterinaberesneva5@gmail.com>
-    LinkedIn: <https://www.linkedin.com/in/kate-beresneva-4610281aa/>
-    GitHub: <https://github.com/beresnewa>
+<ekaterinaberesneva5@gmail.com>
+<https://www.linkedin.com/in/kate-beresneva-4610281aa/>
+<https://github.com/beresnewa>
     ***
 ### Objective ###
     Front-end Developer 
